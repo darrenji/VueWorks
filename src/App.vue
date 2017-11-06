@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import ColOrder from './components/iview/ColOrderByPushPull.vue';
+    import ColOrder from './components/iview/ColOffset.vue';
     export default {
         components: {
             ColOrder
