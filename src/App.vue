@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import ColOrder from './components/iview/ColVert.vue';
+    import ColOrder from './components/iview/ResponsiveLayout.vue';
     export default {
         components: {
             ColOrder
