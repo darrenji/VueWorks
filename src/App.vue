@@ -1,14 +1,14 @@
 <template>
   <div id="app">
-    <gutter></gutter>
+    <col-order></col-order>
   </div>
 </template>
 
 <script>
-    import Gutter from './components/iview/Gutter.vue';
+    import ColOrder from './components/iview/ColOrder.vue';
     export default {
         components: {
-            Gutter
+            ColOrder
         }
     }
 </script>
