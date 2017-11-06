@@ -1,18 +1,16 @@
 <template>
   <div id="app">
-    <col-order></col-order>
+    <display></display>
   </div>
 </template>
 
 <script>
-    import ColOrder from './components/iview/ResponsiveLayout.vue';
+    import Display from './components/iview/LayoutTopMenu.vue';
     export default {
         components: {
-            ColOrder
+            Display
         }
     }
 </script>
 
-<style>
 
-</style>
