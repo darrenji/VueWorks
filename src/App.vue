@@ -1,14 +1,14 @@
 <template>
   <div id="app">
-    <basic-layout></basic-layout>
+    <gutter></gutter>
   </div>
 </template>
 
 <script>
-    import BasicLayout from './components/iview/BasicLayout.vue';
+    import Gutter from './components/iview/Gutter.vue';
     export default {
         components: {
-            BasicLayout
+            Gutter
         }
     }
 </script>
