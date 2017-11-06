@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import Display from './components/iview/LayoutTopMenu.vue';
+    import Display from './components/iview/LayoutSideTopMenu.vue';
     export default {
         components: {
             Display
