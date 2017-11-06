@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import ColOrder from './components/iview/ColHori.vue';
+    import ColOrder from './components/iview/ColVert.vue';
     export default {
         components: {
             ColOrder
